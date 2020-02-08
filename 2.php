@@ -2,10 +2,6 @@
 $usernametrue = 'siska';
 $passwordtrue = 'codeYourFuture!123';
 
-#Catatan
-#Jalankan program sesuai parameter misal ingin mencoba password dan username gunakan parameter usernametrue dan passwortrue
-#jika ingin mencoba yang tidak sesuai jalankan menggunakan parameter usernamefalse dan passwordfalse
-
 $hitungusername = strlen($usernametrue);
 echo $hitungusername . "<br>";
 if($hitungusername >= 5 && $hitungusername <= 9){
