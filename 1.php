@@ -1,7 +1,7 @@
 <?php
-$name        = "Muhammad Nur Faizi";
-$age        = 23;
-$address     = "Jl. Watudakon No.126 Mojokerto";
+$name        = "Didin Irawan";
+$age        = 24;
+$address     = "Jl.Pendidikan VI No.32 Dan. Pulokulon Mojokerto";
 $hobbies     = array("Programming", "Learn Somthing New", "Gaming");
 $is_married  = false;
 $list_school      = [
