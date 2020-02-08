@@ -1,5 +1,5 @@
 <?php
-$kata = "Tuban";
+$kata = "Surabaya";
 $cari = "u";
 $pengganti = "o";
 
