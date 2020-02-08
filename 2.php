@@ -2,9 +2,6 @@
 $usernametrue = 'siska';
 $passwordtrue = 'codeYourFuture!123';
 
-$usernamefalse = "xfaizix";
-$passwordfalse = "FXaiXzXi!";
-
 #Catatan
 #Jalankan program sesuai parameter misal ingin mencoba password dan username gunakan parameter usernametrue dan passwortrue
 #jika ingin mencoba yang tidak sesuai jalankan menggunakan parameter usernamefalse dan passwordfalse
