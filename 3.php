@@ -1,5 +1,5 @@
 <?php
-$kata = "lima";
+$kata = "topi saya bundar";
 
 function hitung_vocal($kata){
   $arr = str_split($kata);
